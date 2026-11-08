@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://testmebel.uz/sitemap.xml
